@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Courier", cursive;
+  background: #eee;
+}
+.header__logo {
+  font-size: 24px;
+  background: black;
+}
+.header__logo {
+  color: white;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+.topnav a {
+  color: black;
+  padding: 5px;
+  font-size: 35px;
+}
+.topnav a:hover{
+  border-bottom: 3px solid black;
+  border-top: 3px solid black;
+}
+.topnav {
+  text-align: center;
+  margin-top: 10px;
+}
+.text_one {
+  margin-top: 50px;
+  font-family: Comfortaa, cursive;
+  margin-left:5%;
+}
+.container {
+  background: #fff;
+  border-radius: 20px;
+  margin: 10px;
+}
+.img_style {
+  width: 320px;
+  border-radius: 20px;
+}
+.img {
+  text-align: center ;
+}
+.lesson_nane {
+  padding-top: 10px;
+  padding-left: 3%;
+}
+.button {
+  text-align: center;
+  padding: 10px;
+}
+.watch {
+  color: black;
+  font-size: 35px;
+  border-radius: 20px;
+  border: 2px solid black;
+  font-family: Comfortaa, cursive;
+  padding: 5px;
+}
+.video {
+  border-radius: 20px;
+}
+.video_class {
+  text-align: center;
+}
+.watch_youtube {
+  color: Red;
+  font-size: 24px;
+  border-radius: 20px;
+  border: 2px solid red;
+  font-family: Comfortaa, cursive;
+  padding: 5px;
+}
+.watch_youtube:hover {
+  background-color: red;
+  color: white;
+}
+.btn_download {
+  color: white;
+  padding: 5px;
+  font-size: 25px;
+}
+.download {
+  background: orange;
+  margin: 5px;
+  border-radius: 20px;
+  padding: 5px;
+}
